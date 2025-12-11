@@ -50,7 +50,7 @@ An end-to-end Industrial IoT (IIoT) solution for predictive maintenance. The sys
 
 3.  **Build and Run the Stack:**
     ```bash
-    docker-compose up -d --build
+    docker compose up -d --build
     ```
 
 4.  **AI Model Training (Initial Setup):**
@@ -62,7 +62,7 @@ An end-to-end Industrial IoT (IIoT) solution for predictive maintenance. The sys
     * Rebuild the worker container to apply the new model:
         ```bash
         cd ..
-        docker-compose up -d --build vibration-worker
+        docker compose up -d --build vibration-worker
         ```
 
 5.  **Access Dashboards:**
