@@ -1,0 +1,31 @@
+# Sekrety i środowisko
+.env
+.env.local
+
+# Python cache i środowiska
+__pycache__/
+venv/
+env_diagram/
+*.pyc
+
+# Modele AI i dane treningowe
+*.joblib
+training_data.csv
+
+# Sekrety Arduino/C++
+secrets.h
+include/secrets.h
+esp32_firmware/secrets.h
+
+# DANE DOCKERA (Tego nie wysyłamy!)
+influxdb_data/
+influxdb2_data/
+mosquitto_data/
+nodered_data/
+grafana_data/
+mosquitto/data/
+*.db
+mosquitto/log/
+*.log
+# Pliki śmieciowe
+*.ymlt
