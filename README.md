@@ -37,8 +37,8 @@ An end-to-end Industrial IoT (IIoT) solution for predictive maintenance. The sys
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/TWOJ_NICK/TWOJA_NAZWA_REPO.git](https://github.com/TWOJ_NICK/TWOJA_NAZWA_REPO.git)
-    cd TWOJA_NAZWA_REPO
+    git clone [https://github.com/Riskofpain/iiot-vibration-ai.git](https://github.com/Riskofpain/iiot-vibration-ai.git)
+    cd iiot-vibration-ai
     ```
 
 2.  **Environment Configuration:**
